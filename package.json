@@ -1,25 +1,21 @@
 {
   "name": "nodehl7",
-  "version": "0.2.6",
-  "description": "NodeJS Library for parsing HL7 Messages",
+  "version": "0.2.7",
+  "description": "Forked from Loksly/nodehl7 - NodeJS Library for parsing HL7 Messages",
   "main": "lib/hl7.js",
   "scripts": {
     "test": "npx mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Loksly/node-hl7.git"
+    "url": "git+https://github.com/ig-martinez/nodehl7/"
   },
   "keywords": [
     "nodejs",
     "hl7"
   ],
-  "author": "Loksly",
+  "author": "ig-martinez",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Loksly/node-hl7/issues"
-  },
-  "homepage": "https://github.com/Loksly/node-hl7#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "encoding": "^0.1.12",
