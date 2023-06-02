@@ -1,0 +1,8 @@
+{
+  "name": "ISD",
+  "fields": [
+    "Reference Interaction Number",
+    "Interaction Type Identifier",
+    "Interaction Active State"
+  ]
+}

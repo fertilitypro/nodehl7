@@ -1,0 +1,22 @@
+{
+  "name": "UB2",
+  "fields": [
+    "Set ID - UB2",
+    "Co-Insurance Days (9)",
+    "Condition Code (24-30)",
+    "Covered Days (7)",
+    "Non-Covered Days (8)",
+    "Value Amount & Code (39-41)",
+    "Occurrence Code & Date (32-35)",
+    "Occurrence Span Code/Dates (36)",
+    "Uniform Billing Locator 2 (state)",
+    "Uniform Billing Locator 11 (state)",
+    "Uniform Billing Locator 31 (national)",
+    "Document Control Number",
+    "Uniform Billing Locator 49 (national)",
+    "Uniform Billing Locator 56 (state)",
+    "Uniform Billing Locator 57 (sational)",
+    "Uniform Billing Locator 78 (state)",
+    "Special Visit Count"
+  ]
+}

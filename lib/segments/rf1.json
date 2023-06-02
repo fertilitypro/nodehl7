@@ -1,0 +1,30 @@
+{
+  "name": "RF1",
+  "fields": [
+    "Referral Status",
+    "Referral Priority",
+    "Referral Type",
+    "Referral Disposition",
+    "Referral Category",
+    "Originating Referral Identifier",
+    "Effective Date",
+    "Expiration Date",
+    "Process Date",
+    "Referral Reason",
+    "External Referral Identifier",
+    "Referral Documentation Completion Status",
+    "Planned Treatment Stop Date",
+    "Referral Reason Text",
+    "Number of Authorized Treatments/Units",
+    "Number of Used Treatments/Units",
+    "Number of Schedule Treatments/Units",
+    "Remaining Benefit Amount",
+    "Authorized Provider",
+    "Authorized Health Professional",
+    "Source Text",
+    "Source Date",
+    "Source Phone",
+    "Comment",
+    "Action Code"
+  ]
+}

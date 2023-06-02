@@ -1,0 +1,11 @@
+{
+  "name": "CNS",
+  "fields": [
+    "Starting Notification Reference Number",
+    "Ending Notification Reference Number",
+    "Starting Notification Date/Time",
+    "Ending Notification Date/Time",
+    "Starting Notification Code",
+    "Ending Notification Code"
+  ]
+}

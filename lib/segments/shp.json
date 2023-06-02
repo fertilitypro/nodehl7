@@ -1,0 +1,17 @@
+{
+	"name": "SHP",
+  "fields": [
+    "Shipment ID",
+    "Internal Shipment ID",
+    "Shipment Status",
+    "Shipment Status Date/Time",
+    "Shipment Status Reason",
+    "Shipment Priority",
+    "Shipment Confidentiality",
+    "Number of Packages in Shipment",
+    "Shipment Condition",
+    "Shipment Handling Code",
+    "Shipment Risk Code",
+    "Action Code"
+  ]
+}

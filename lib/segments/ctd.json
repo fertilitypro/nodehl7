@@ -1,0 +1,12 @@
+{
+  "name": "CTD",
+  "fields": [
+    "Contact Role",
+    "Contact Name",
+    "Contact Address",
+    "Contact Location",
+    "Contact Communication Information",
+    "Preferred Method of Contact",
+    "Contact Identifiers"
+  ]
+}

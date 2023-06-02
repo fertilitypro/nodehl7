@@ -1,0 +1,10 @@
+{
+	"name": "LCH",
+  "fields": [
+    "Primary Key Value - LCH",
+    "Segment Action Code",
+    "Segment Unique Key",
+    "Location Characteristic ID",
+    "Location Characteristic Value - LCH"
+  ]
+}

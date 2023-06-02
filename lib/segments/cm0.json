@@ -1,0 +1,16 @@
+{
+  "name": "CM0",
+  "fields": [
+    "Set ID - CM0",
+    "Sponsor Study ID",
+    "Alternate Study ID",
+    "Title of Study",
+    "Chairman of Study",
+    "Last IRB Approval Date",
+    "Total Accrual to Date",
+    "Last Accrual Date",
+    "Contact for Study",
+    "Contact's Telephone Number",
+    "Contact's Address"
+  ]
+}

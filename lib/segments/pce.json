@@ -1,0 +1,9 @@
+{
+  "name": "PCE",
+  "fields": [
+    "Set ID - PCE",
+    "Cost Center Account Number",
+    "Transaction Code",
+    "Transaction Amount - Unit"
+  ]
+}

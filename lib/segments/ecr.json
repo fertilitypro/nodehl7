@@ -1,0 +1,8 @@
+{
+  "name": "ECR",
+  "fields": [
+    "Command Response",
+    "Date/Time Completed",
+    "Command Response Parameters"
+  ]
+}

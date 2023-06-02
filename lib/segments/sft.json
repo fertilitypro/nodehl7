@@ -1,0 +1,11 @@
+{
+  "name": "SFT",
+  "fields": [
+    "Software Vendor Organization",
+    "Software Certified Version or Release Number",
+    "Software Product Name",
+    "Software Binary ID",
+    "Software Product Information",
+    "Software Install Date"
+  ]
+}

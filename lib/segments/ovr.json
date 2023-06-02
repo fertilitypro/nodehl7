@@ -1,0 +1,10 @@
+{
+  "name": "OVR",
+  "fields": [
+    "Business Rule Override Type",
+    "Business Rule Override Code",
+    "Override Comments",
+    "Override Entered By",
+    "Override Authorized By"
+  ]
+}

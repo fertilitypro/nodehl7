@@ -1,0 +1,20 @@
+{
+  "name": "TCC",
+  "fields": [
+    "Universal Service Identifier",
+    "Equipment Test Application Identifier",
+    "Specimen Source",
+    "Auto-Dilution Factor Default",
+    "Rerun Dilution Factor Default",
+    "Pre-Dilution Factor Default",
+    "Endogenous Content of Pre-Dilution Diluent",
+    "Inventory Limits Warning Level",
+    "Automatic Rerun Allowed",
+    "Automatic Repeat Allowed",
+    "Automatic Reflex Allowed",
+    "Equipment Dynamic Range",
+    "Units",
+    "Processing Type",
+    "Test Criticality"
+  ]
+}

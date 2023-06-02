@@ -1,0 +1,30 @@
+{
+  "name": "CON",
+  "fields": [
+    "Set ID - CON",
+    "Consent Type",
+    "Consent Form ID and Version",
+    "Consent Form Number",
+    "Consent Text",
+    "Subject-specific Consent Text",
+    "Consent Background Information",
+    "Subject-specific Consent Background Text",
+    "Consenter-imposed limitations",
+    "Consent Mode",
+    "Consent Status",
+    "Consent Discussion Date/Time",
+    "Consent Decision Date/Time",
+    "Consent Effective Date/Time",
+    "Consent End Date/Time",
+    "Subject Competence Indicator",
+    "Translator Assistance Indicator",
+    "Language Translated To",
+    "Informational Material Supplied Indicator",
+    "Consent Bypass Reason",
+    "Consent Disclosure Level",
+    "Consent Non-disclosure Reason",
+    "Non-subject Consenter Reason",
+    "Consenter ID",
+    "Relationship to Subject"
+  ]
+}

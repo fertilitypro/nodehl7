@@ -1,0 +1,13 @@
+{
+  "name": "DB1",
+  "fields": [
+    "Set ID - DB1",
+    "Disabled Person Code",
+    "Disabled Person Identifier",
+    "Disability Indicator",
+    "Disability Start Date",
+    "Disability End Date",
+    "Disability Return to Work Date",
+    "Disability Unable to Work Date"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "SDD",
+  "fields": [
+    "Lot Number",
+    "Device Number",
+    "Device Name",
+    "Device Data State",
+    "Load Status",
+    "Control Code",
+    "Operator Name"
+  ]
+}

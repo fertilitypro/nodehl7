@@ -1,0 +1,10 @@
+{
+  "name": "GP1",
+  "fields": [
+    "Type of Bill Code",
+    "Revenue Code",
+    "Overall Claim Disposition Code",
+    "OCE Edits per Visit Code",
+    "Outlier Cost"
+  ]
+}

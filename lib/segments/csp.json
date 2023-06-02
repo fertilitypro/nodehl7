@@ -1,0 +1,9 @@
+{
+  "name": "CSP",
+  "fields": [
+    "Study Phase Identifier",
+    "Date/time Study Phase Began",
+    "Date/time Study Phase Ended",
+    "Study Phase Evaluability"
+  ]
+}

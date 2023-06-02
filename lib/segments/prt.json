@@ -1,0 +1,29 @@
+{
+  "name": "PRT",
+  "fields": [
+    "Participation Instance ID",
+    "Action Code",
+    "Action Reason",
+    "Role of Participation",
+    "Person",
+    "Person Provider Type",
+    "Organization Unit Type",
+    "Organization",
+    "Location",
+    "Device",
+    "Begin Date/Time (arrival time)",
+    "End Date/Time (departure time)",
+    "Qualitative Duration",
+    "Address",
+    "Telecommunication Address",
+    "UDI Device Identifier",
+    "Device Manufacture Date",
+    "Device Expiry Date",
+    "Device Lot Number",
+    "Device Serial Number",
+    "Device Donation Identification",
+    "Device Type",
+    "Preferred Method of Contact",
+    "Contact Identifiers"
+  ]
+}

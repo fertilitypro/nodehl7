@@ -1,0 +1,12 @@
+{
+	"name": "RCP",
+  "fields": [
+    "Query Priority",
+    "Quantity Limited Request",
+    "Response Modality",
+    "Execution and Delivery Time",
+    "Modify Indicator",
+    "Sort-by Field",
+    "Segment group inclusion"
+  ]
+}

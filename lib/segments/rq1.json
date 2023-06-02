@@ -1,0 +1,12 @@
+{
+	"name": "RQ1",
+  "fields": [
+    "Anticipated Price",
+    "Manufacturer Identifier",
+    "Manufacturer's Catalog",
+    "Vendor ID",
+    "Vendor Catalog",
+    "Taxable",
+    "Substitute Allowed"
+  ]
+}

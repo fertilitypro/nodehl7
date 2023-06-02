@@ -1,0 +1,14 @@
+{
+  "name": "EDU",
+  "fields": [
+    "Set ID - EDU",
+    "Academic Degree",
+    "Academic Degree Program Date Range",
+    "Academic Degree Program Participation Date Range",
+    "Academic Degree Granted Date",
+    "School",
+    "School Type Code",
+    "School Address",
+    "Major Field of Study"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "ADJ",
+  "fields": [
+    "Provider Adjustment Number",
+    "Payer Adjustment Number",
+    "Adjustment Sequence Number",
+    "Adjustment Category",
+    "Adjustment Amount",
+    "Adjustment Quantity",
+    "Adjustment Reason PA",
+    "Adjustment Description",
+    "Original Value",
+    "Substitute Value",
+    "Adjustment Action",
+    "Provider Adjustment Number Cross Reference",
+    "Provider Product/Service Line Item Number Cross Reference",
+    "Adjustment Date",
+    "Responsible Organization"
+  ]
+}

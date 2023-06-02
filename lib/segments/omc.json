@@ -1,0 +1,18 @@
+{
+  "name": "OMC",
+  "fields": [
+    "Sequence Number - Test/Observation Master File",
+    "Segment Action Code",
+    "Segment Unique Key",
+    "Clinical Information Request",
+    "Collection Event/Process Step",
+    "Communication Location",
+    "Answer Required",
+    "Hint/Help Text",
+    "Type of Answer",
+    "Multiple Answers Allowed",
+    "Answer Choices",
+    "Character Limit",
+    "Number of Decimals"
+  ]
+}

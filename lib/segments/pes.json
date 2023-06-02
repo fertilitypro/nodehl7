@@ -1,0 +1,18 @@
+{
+	"name": "PES",
+  "fields": [
+    "Sender Organization Name",
+    "Sender Individual Name",
+    "Sender Address",
+    "Sender Telephone",
+    "Sender Event Identifier",
+    "Sender Sequence Number",
+    "Sender Event Description",
+    "Sender Comment",
+    "Sender Aware Date/Time",
+    "Event Report Date",
+    "Event Report Timing/Type",
+    "Event Report Source",
+    "Event Reported To"
+  ]
+}

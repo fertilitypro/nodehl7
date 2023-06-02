@@ -1,0 +1,10 @@
+{
+  "name": "PSS",
+  "fields": [
+    "Provider Product/Service Section Number",
+    "Payer Product/Service Section Number",
+    "Product/Service Section Sequence Number",
+    "Billed Amount",
+    "Section Description or Heading"
+  ]
+}

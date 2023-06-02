@@ -1,0 +1,29 @@
+{
+  "name": "PM1",
+  "fields": [
+    "Health Plan ID",
+    "Insurance Company ID",
+    "Insurance Company Name",
+    "Insurance Company Address",
+    "Insurance Co Contact Person",
+    "Insurance Co Phone Number",
+    "Group Number",
+    "Group Name",
+    "Plan Effective Date",
+    "Plan Expiration Date",
+    "Patient DOB Required",
+    "Patient Gender Required",
+    "Patient Relationship Required",
+    "Patient Signature Required",
+    "Diagnosis Required",
+    "Service Required",
+    "Patient Name Required",
+    "Patient Address Required",
+    "Subscribers Name Required",
+    "Workman's Comp Indicator",
+    "Bill Type Required",
+    "Commercial Carrier Name and Address Required",
+    "Policy Number Pattern",
+    "Group Number Pattern"
+  ]
+}

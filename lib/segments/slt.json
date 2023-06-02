@@ -1,0 +1,10 @@
+{
+  "name": "SLT",
+  "fields": [
+    "Device Number",
+    "Device Name",
+    "Lot Number",
+    "Item Identifier",
+    "Bar Code"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+	"name": "PAC",
+  "fields": [
+    "Set Id - PAC",
+    "Package ID",
+    "Parent Package ID",
+    "Position in Parent Package",
+    "Package Type",
+    "Package Condition",
+    "Package Handling Code",
+    "Package Risk Code",
+    "Action Code"
+  ]
+}

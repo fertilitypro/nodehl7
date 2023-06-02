@@ -1,0 +1,31 @@
+{
+  "name": "IVT",
+  "fields": [
+    "Set Id - IVT",
+    "Inventory Location Identifier",
+    "Inventory Location Name",
+    "Source Location Identifier",
+    "Source Location Name",
+    "Item Status",
+    "Bin Location Identifier",
+    "Order Packaging",
+    "Issue Packaging",
+    "Default Inventory Asset Account",
+    "Patient Chargeable Indicator",
+    "Transaction Code",
+    "Transaction Amount - Unit",
+    "Item Importance Code",
+    "Stocked Item Indicator",
+    "Consignment Item Indicator",
+    "Reusable Item Indicator",
+    "Reusable Cost",
+    "Substitute Item Identifier",
+    "Latex-Free Substitute Item Identifier",
+    "Recommended Reorder Theory",
+    "Recommended Safety Stock Days",
+    "Recommended Maximum Days Inventory",
+    "Recommended Order Point",
+    "Recommended Order Amount",
+    "Operating Room Par Level Indicator"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "CDO",
+  "fields": [
+    "Set ID - CDO",
+    "Action Code",
+    "Cumulative Dosage Limit",
+    "Cumulative Dosage Limit Time Interval"
+  ]
+}

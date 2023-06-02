@@ -1,0 +1,9 @@
+{
+  "name": "LAN",
+  "fields": [
+    "Set ID - LAN",
+    "Language Code",
+    "Language Ability Code",
+    "Language Proficiency Code"
+  ]
+}

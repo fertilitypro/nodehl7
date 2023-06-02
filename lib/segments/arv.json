@@ -1,0 +1,15 @@
+{
+  "name": "ARV",
+  "fields": [
+    "Set ID",
+    "Access Restriction Action Code",
+    "Access Restriction Value",
+    "Access Restriction Reason",
+    "Special Access Restriction Instructions",
+    "Access Restriction Date Range",
+    "Security Classification Tag",
+    "Security Handling Instructions",
+    "Access Restriction Message Location",
+    "Access Restriction Instance Identifier"
+  ]
+}

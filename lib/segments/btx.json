@@ -1,0 +1,26 @@
+{
+  "name": "BTX",
+  "fields": [
+    "Set ID - BTX",
+    "BC Donation ID",
+    "BC Component",
+    "BC Blood Group",
+    "CP Commercial Product",
+    "CP Manufacturer",
+    "CP Lot Number",
+    "BP Quantity",
+    "BP Amount",
+    "BP Units",
+    "BP Transfusion/Disposition Status",
+    "BP Message Status",
+    "BP Date/Time of Status",
+    "BP Transfusion Administrator",
+    "BP Transfusion Verifier",
+    "BP Transfusion Start Date/Time of Status",
+    "BP Transfusion End Date/Time of Status",
+    "BP Adverse Reaction Type",
+    "BP Transfusion Interrupted Reason",
+    "BP Unique ID",
+    "Action Code"
+  ]
+}

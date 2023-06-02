@@ -1,0 +1,11 @@
+{
+	"name": "MFA",
+  "fields": [
+    "Record-Level Event Code",
+    "MFN Control ID",
+    "Event Completion Date/Time",
+    "MFN Record Level Error Return",
+    "Primary Key Value - MFA",
+    "Primary Key Value Type - MFA"
+  ]
+}

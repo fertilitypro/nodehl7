@@ -1,0 +1,9 @@
+{
+  "name": "RFI",
+  "fields": [
+    "Request Date",
+    "Response Due Date",
+    "Patient Consent",
+    "Date Additional Information Was Submitted"
+  ]
+}

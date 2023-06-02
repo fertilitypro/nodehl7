@@ -1,0 +1,9 @@
+{
+  "name": "CM2",
+  "fields": [
+    "Set ID- CM2",
+    "Scheduled Time Point",
+    "Description of Time Point",
+    "Events Scheduled This Time Point"
+  ]
+}

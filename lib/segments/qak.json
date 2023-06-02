@@ -1,0 +1,11 @@
+{
+  "name": "QAK",
+  "fields": [
+    "Query Tag",
+    "Query Response Status",
+    "Message Query Name",
+    "Hit Count Total",
+    "This payload",
+    "Hits remaining"
+  ]
+}

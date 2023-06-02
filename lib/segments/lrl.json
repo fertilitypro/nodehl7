@@ -1,0 +1,11 @@
+{
+  "name": "LRL",
+  "fields": [
+    "Primary Key Value - LRL",
+    "Segment Action Code",
+    "Segment Unique Key",
+    "Location Relationship ID",
+    "Organizational Location Relationship Value",
+    "Patient Location Relationship Value"
+  ]
+}

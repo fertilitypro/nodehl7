@@ -1,0 +1,27 @@
+{
+	"name": "RXV",
+  "fields": [
+    "Set ID - RXV",
+    "Bolus Type",
+    "Bolus Dose Amount",
+    "Bolus Dose Amount Units",
+    "Bolus Dose Volume",
+    "Bolus Dose Volume Units",
+    "PCA Type",
+    "PCA Dose Amount",
+    "PCA Dose Amount Units",
+    "PCA Dose Amount Volume",
+    "PCA Dose Amount Volume Units",
+    "Max Dose Amount",
+    "Max Dose Amount Units",
+    "Max Dose Amount Volume",
+    "Max Dose Amount Volume Units",
+    "Max Dose per Time",
+    "Lockout Interval",
+    "Syringe Manufacturer",
+    "Syringe Model Number",
+    "Syringe Size",
+    "Syringe Size Units",
+    "Action Code"
+  ]
+}

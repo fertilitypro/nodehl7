@@ -1,0 +1,15 @@
+{
+  "name": "ILT",
+  "fields": [
+    "Set Id - ILT",
+    "Inventory Lot Number",
+    "Inventory Expiration Date",
+    "Inventory Received Date",
+    "Inventory Received Quantity",
+    "Inventory Received Quantity Unit",
+    "Inventory Received Item Cost",
+    "Inventory On Hand Date",
+    "Inventory On Hand Quantity",
+    "Inventory On Hand Quantity Unit"
+  ]
+}

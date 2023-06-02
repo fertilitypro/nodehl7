@@ -1,0 +1,7 @@
+{
+  "name": "UAC",
+  "fields": [
+    "User Authentication Credential Type Code",
+    "User Authentication Credential"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "OH3",
+  "fields": [
+    "Set ID",
+    "Action Code",
+    "Occupation",
+    "Industry",
+    "Usual Occupation Duration (years)",
+    "Start year",
+    "Entered Date",
+    "Work Unique Identifier"
+  ]
+}

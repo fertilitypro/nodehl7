@@ -1,0 +1,31 @@
+{
+  "name": "ARQ",
+  "fields": [
+    "Placer Appointment ID",
+    "Filler Appointment ID",
+    "Occurrence Number",
+    "Placer Order Group Number",
+    "Schedule ID",
+    "Request Event Reason",
+    "Appointment Reason",
+    "Appointment Type",
+    "Appointment Duration",
+    "Appointment Duration Units",
+    "Requested Start Date/Time Range",
+    "Priority-ARQ",
+    "Repeating Interval",
+    "Repeating Interval Duration",
+    "Placer Contact Person",
+    "Placer Contact Phone Number",
+    "Placer Contact Address",
+    "Placer Contact Location",
+    "Entered By Person",
+    "Entered By Phone Number",
+    "Entered By Location",
+    "Parent Placer Appointment ID",
+    "Parent Filler Appointment ID",
+    "Placer Order Number",
+    "Filler Order Number",
+    "Alternate Placer Order Group Number"
+  ]
+}

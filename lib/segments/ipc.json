@@ -1,0 +1,15 @@
+{
+  "name": "IPC",
+  "fields": [
+    "Accession Identifier",
+    "Requested Procedure ID",
+    "Study Instance UID",
+    "Scheduled Procedure Step ID",
+    "Modality",
+    "Protocol Code",
+    "Scheduled Station Name",
+    "Scheduled Procedure Step Location",
+    "Scheduled Station AE Title",
+    "Action Code"
+  ]
+}

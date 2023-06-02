@@ -1,0 +1,9 @@
+{
+  "name": "LCC",
+  "fields": [
+    "Primary Key Value - LCC",
+    "Location Department",
+    "Accommodation Type",
+    "Charge Code"
+  ]
+}

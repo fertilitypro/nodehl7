@@ -1,0 +1,14 @@
+{
+  "name": "NSC",
+  "fields": [
+    "Application Change Type",
+    "Current CPU",
+    "Current Fileserver",
+    "Current Application",
+    "Current Facility",
+    "New CPU",
+    "New Fileserver",
+    "New Application",
+    "New Facility"
+  ]
+}

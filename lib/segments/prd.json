@@ -1,0 +1,19 @@
+{
+  "name": "PRD",
+  "fields": [
+    "Provider Role",
+    "Provider Name",
+    "Provider Address",
+    "Provider Location",
+    "Provider Communication Information",
+    "Preferred Method of Contact",
+    "Provider Identifiers",
+    "Effective Start Date of Provider Role",
+    "Effective End Date of Provider Role",
+    "Provider Organization Name and Identifier",
+    "Provider Organization Address",
+    "Provider Organization Location Information",
+    "Provider Organization Communication Information",
+    "Provider Organization Method of Contact"
+  ]
+}

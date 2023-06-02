@@ -1,0 +1,23 @@
+{
+  "name": "OH2",
+  "fields": [
+    "Set ID",
+    "Action Code",
+    "Entered Date",
+    "Occupation",
+    "Industry",
+    "Work Classification",
+    "Job Start Date",
+    "Job End Date",
+    "Work Schedule",
+    "Average Hours worked per Day",
+    "Average Days Worked per Week",
+    "Employer Organization",
+    "Employer Address",
+    "Supervisory Level",
+    "Job Duties",
+    "Occupational Hazards",
+    "Job Unique Identifier",
+    "Current Job Indicator"
+  ]
+}

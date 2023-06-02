@@ -1,0 +1,13 @@
+{
+  "name": "SCP",
+  "fields": [
+    "Number Of Decontamination/Sterilization Devices",
+    "Labor Calculation Type",
+    "Date Format",
+    "Device Number",
+    "Device Name",
+    "Device Model Name",
+    "Device Type",
+    "Lot Control"
+  ]
+}

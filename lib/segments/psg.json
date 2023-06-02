@@ -1,0 +1,11 @@
+{
+  "name": "PSG",
+  "fields": [
+    "Provider Product/Service Group Number",
+    "Payer Product/Service Group Number",
+    "Product/Service Group Sequence Number",
+    "Adjudicate as Group",
+    "Product/Service Group Billed Amount",
+    "Product/Service Group Description"
+  ]
+}

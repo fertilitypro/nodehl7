@@ -1,0 +1,23 @@
+{
+  "name": "PRC",
+  "fields": [
+    "Primary Key Value - PRC",
+    "Facility ID - PRC",
+    "Department",
+    "Valid Patient Classes",
+    "Price",
+    "Formula",
+    "Minimum Quantity",
+    "Maximum Quantity",
+    "Minimum Price",
+    "Maximum Price",
+    "Effective Start Date",
+    "Effective End Date",
+    "Price Override Flag",
+    "Billing Category",
+    "Chargeable Flag",
+    "Active/Inactive Flag",
+    "Cost",
+    "Charge on Indicator"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+	"name": "LDP",
+  "fields": [
+    "Primary Key Value - LDP",
+    "Location Department",
+    "Location Service",
+    "Specialty Type",
+    "Valid Patient Classes",
+    "Active/Inactive Flag",
+    "Activation Date - LDP",
+    "Inactivation Date - LDP",
+    "Inactivated Reason",
+    "Visiting Hours",
+    "Contact Phone",
+    "Location Cost Center"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "IPR",
+  "fields": [
+    "IPR Identifier",
+    "Provider Cross Reference Identifier",
+    "Payer Cross Reference Identifier",
+    "IPR Status",
+    "IPR Date/Time",
+    "Adjudicated/Paid Amount",
+    "Expected Payment Date/Time",
+    "IPR Checksum"
+  ]
+}

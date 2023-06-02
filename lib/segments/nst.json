@@ -1,0 +1,20 @@
+{
+  "name": "NST",
+  "fields": [
+    "Statistics Available",
+    "Source Identifier",
+    "Source Type",
+    "Statistics Start",
+    "Statistics End",
+    "Receive Character Count",
+    "Send Character Count",
+    "Messages Received",
+    "Messages Sent",
+    "Checksum Errors Received",
+    "Length Errors Received",
+    "Other Errors Received",
+    "Connect Timeouts",
+    "Receive Timeouts",
+    "Application control-level Errors"
+  ]
+}

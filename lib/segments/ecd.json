@@ -1,0 +1,10 @@
+{
+  "name": "ECD",
+  "fields": [
+    "Reference Command Number",
+    "Remote Control Command",
+    "Response Required",
+    "Requested Completion Time",
+    "Parameters"
+  ]
+}

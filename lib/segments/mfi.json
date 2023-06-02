@@ -1,0 +1,11 @@
+{
+  "name": "MFI",
+  "fields": [
+    "Master File Identifier",
+    "Master File Application Identifier",
+    "File-Level Event Code",
+    "Entered Date/Time",
+    "Effective Date/Time",
+    "Response Level Code"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "APR",
+  "fields": [
+    "Time Selection Criteria",
+    "Resource Selection Criteria",
+    "Location Selection Criteria",
+    "Slot Spacing Criteria",
+    "Filler Override Criteria"
+  ]
+}

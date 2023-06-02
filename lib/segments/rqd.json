@@ -1,0 +1,15 @@
+{
+  "name": "RQD",
+  "fields": [
+    "Requisition Line Number",
+    "Item Code - Internal",
+    "Item Code - External",
+    "Hospital Item Code",
+    "Requisition Quantity",
+    "Requisition Unit of Measure",
+    "Cost Center Account Number",
+    "Item Natural Account Code",
+    "Deliver To ID",
+    "Date Needed"
+  ]
+}

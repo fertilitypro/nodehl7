@@ -1,0 +1,18 @@
+{
+  "name": "CDM",
+  "fields": [
+    "Primary Key Value - CDM",
+    "Charge Code Alias",
+    "Charge Description Short",
+    "Charge Description Long",
+    "Description Override Indicator",
+    "Exploding Charges",
+    "Procedure Code",
+    "Active/Inactive Flag",
+    "Inventory Number",
+    "Resource Load",
+    "Contract Number",
+    "Contract Organization",
+    "Room Fee Indicator"
+  ]
+}

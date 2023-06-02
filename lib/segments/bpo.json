@@ -1,0 +1,19 @@
+{
+  "name": "BPO",
+  "fields": [
+    "Set ID - BPO",
+    "BP Universal Service Identifier",
+    "BP Processing Requirements",
+    "BP Quantity",
+    "BP Amount",
+    "BP Units",
+    "BP Intended Use Date/Time",
+    "BP Intended Dispense From Location",
+    "BP Intended Dispense From Address",
+    "BP Requested Dispense Date/Time",
+    "BP Requested Dispense To Location",
+    "BP Requested Dispense To Address",
+    "BP Indication for Use",
+    "BP Informed Consent Indicator"
+  ]
+}

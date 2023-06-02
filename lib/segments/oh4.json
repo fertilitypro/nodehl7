@@ -1,0 +1,11 @@
+{
+  "name": "OH4",
+  "fields": [
+    "Set ID",
+    "Action Code",
+    "Combat Zone Start Date",
+    "Combat Zone End Date",
+    "Entered Date",
+    "Combat Zone Unique Identifier"
+  ]
+}

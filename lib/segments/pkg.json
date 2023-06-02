@@ -1,0 +1,16 @@
+{
+  "name": "PKG",
+  "fields": [
+    "Set Id - PKG",
+    "Packaging Units",
+    "Default Order Unit Of Measure Indicator",
+    "Package Quantity",
+    "Price",
+    "Future Item Price",
+    "Future Item Price Effective Date",
+    "Global Trade Item Number",
+    "Contract Price",
+    "Quantity of Each",
+    "Vendor Catalog Number"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "PYE",
+  "fields": [
+    "Set ID - PYE",
+    "Payee Type",
+    "Payee Relationship to Invoice (Patient)",
+    "Payee Identification List",
+    "Payee Person Name",
+    "Payee Address",
+    "Payment Method"
+  ]
+}

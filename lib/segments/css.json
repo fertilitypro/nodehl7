@@ -1,0 +1,8 @@
+{
+  "name": "CSS",
+  "fields": [
+    "Study Scheduled Time Point",
+    "Study Scheduled Patient Time Point",
+    "Study Quality Control Codes"
+  ]
+}

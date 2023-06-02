@@ -1,0 +1,17 @@
+{
+	"name": "PMT",
+  "fields": [
+    "Payment/Remittance Advice Number",
+    "Payment/Remittance Effective Date/Time",
+    "Payment/Remittance Expiration Date/Time",
+    "Payment Method",
+    "Payment/Remittance Date/Time",
+    "Payment/Remittance Amount",
+    "Check Number",
+    "Payee Bank Identification",
+    "Payee Transit Number",
+    "Payee Bank Account ID",
+    "Payment Organization",
+    "ESR-Code-Line"
+  ]
+}

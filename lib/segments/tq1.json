@@ -1,0 +1,19 @@
+{
+  "name": "TQ1",
+  "fields": [
+    "Set ID - TQ1",
+    "Quantity",
+    "Repeat Pattern",
+    "Explicit Time",
+    "Relative Time and Units",
+    "Service Duration",
+    "Start date/time",
+    "End date/time",
+    "Priority",
+    "Condition text",
+    "Text instruction",
+    "Conjunction",
+    "Occurrence duration",
+    "Total occurrences"
+  ]
+}

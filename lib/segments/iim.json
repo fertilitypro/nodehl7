@@ -1,0 +1,20 @@
+{
+	"name": "IIM",
+  "fields": [
+    "Primary Key Value - IIM",
+    "Service Item Code",
+    "Inventory Lot Number",
+    "Inventory Expiration Date",
+    "Inventory Manufacturer Name",
+    "Inventory Location",
+    "Inventory Received Date",
+    "Inventory Received Quantity",
+    "Inventory Received Quantity Unit",
+    "Inventory Received Item Cost",
+    "Inventory On Hand Date",
+    "Inventory On Hand Quantity",
+    "Inventory On Hand Quantity Unit",
+    "Procedure Code",
+    "Procedure Code Modifier"
+  ]
+}

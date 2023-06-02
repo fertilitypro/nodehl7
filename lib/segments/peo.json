@@ -1,0 +1,30 @@
+{
+  "name": "PEO",
+  "fields": [
+    "Event Identifiers Used",
+    "Event Symptom/Diagnosis Code",
+    "Event Onset Date/Time",
+    "Event Exacerbation Date/Time",
+    "Event Improved Date/Time",
+    "Event Ended Data/Time",
+    "Event Location Occurred Address",
+    "Event Qualification",
+    "Event Serious",
+    "Event Expected",
+    "Event Outcome",
+    "Patient Outcome",
+    "Event Description from Others",
+    "Event Description from Original Reporter",
+    "Event Description from Patient",
+    "Event Description from Practitioner",
+    "Event Description from Autopsy",
+    "Cause Of Death",
+    "Primary Observer Name",
+    "Primary Observer Address",
+    "Primary Observer Telephone",
+    "Primary Observer's Qualification",
+    "Confirmation Provided By",
+    "Primary Observer Aware Date/Time",
+    "Primary Observer's identity May Be Divulged"
+  ]
+}

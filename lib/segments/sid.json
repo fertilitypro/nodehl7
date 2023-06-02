@@ -1,0 +1,9 @@
+{
+  "name": "SID",
+  "fields": [
+    "Application/Method Identifier",
+    "Substance Lot Number",
+    "Substance Container Identifier",
+    "Substance Manufacturer Identifier"
+  ]
+}

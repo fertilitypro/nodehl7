@@ -1,0 +1,12 @@
+{
+  "name": "MFE",
+  "fields": [
+    "Record-Level Event Code",
+    "MFN Control ID",
+    "Effective Date/Time",
+    "Primary Key Value - MFE",
+    "Primary Key Value Type",
+    "Entered Date/Time",
+    "Entered By"
+  ]
+}

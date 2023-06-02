@@ -1,0 +1,23 @@
+{
+  "name": "REL",
+  "fields": [
+    "Set ID - REL",
+    "Relationship Type",
+    "This Relationship Instance Identifier",
+    "Source Information Instance Identifier",
+    "Target Information Instance Identifier",
+    "Asserting Entity Instance ID",
+    "Asserting Person",
+    "Asserting Organization",
+    "Assertor Address",
+    "Assertor Contact",
+    "Assertion Date Range",
+    "Negation Indicator",
+    "Certainty of Relationship",
+    "Priority No",
+    "Priority Sequence No (rel preference for consideration)",
+    "Separability Indicator",
+    "Source Information Instance Object Type",
+    "Target Information Instance Object Type"
+  ]
+}

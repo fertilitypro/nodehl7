@@ -1,0 +1,14 @@
+{
+  "name": "LOC",
+  "fields": [
+    "Primary Key Value - LOC",
+    "Location Description",
+    "Location Type - LOC",
+    "Organization Name - LOC",
+    "Location Address",
+    "Location Phone",
+    "License Number",
+    "Location Equipment",
+    "Location Service Code"
+  ]
+}

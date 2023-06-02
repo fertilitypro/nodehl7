@@ -1,0 +1,16 @@
+{
+  "name": "TCD",
+  "fields": [
+    "Universal Service Identifier",
+    "Auto-Dilution Factor",
+    "Rerun Dilution Factor",
+    "Pre-Dilution Factor",
+    "Endogenous Content of Pre-Dilution Diluent",
+    "Automatic Repeat Allowed",
+    "Reflex Allowed",
+    "Analyte Repeat Status",
+    "Specimen Consumption Quantity",
+    "Pool Size",
+    "Auto-Dilution Type"
+  ]
+}

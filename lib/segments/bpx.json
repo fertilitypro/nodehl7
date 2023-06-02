@@ -1,0 +1,27 @@
+{
+	"name": "BPX",
+  "fields": [
+    "Set ID - BPX",
+    "BP Dispense Status",
+    "BP Status",
+    "BP Date/Time of Status",
+    "BC Donation ID",
+    "BC Component",
+    "BC Donation Type / Intended Use",
+    "CP Commercial Product",
+    "CP Manufacturer",
+    "CP Lot Number",
+    "BP Blood Group",
+    "BC Special Testing",
+    "BP Expiration Date/Time",
+    "BP Quantity",
+    "BP Amount",
+    "BP Units",
+    "BP Unique ID",
+    "BP Actual Dispensed To Location",
+    "BP Actual Dispensed To Address",
+    "BP Dispensed to Receiver",
+    "BP Dispensing Individual",
+    "Action Code"
+  ]
+}

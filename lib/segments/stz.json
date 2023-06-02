@@ -1,0 +1,9 @@
+{
+  "name": "STZ",
+  "fields": [
+    "Sterilization Type",
+    "Sterilization Cycle",
+    "Maintenance Cycle",
+    "Maintenance Type"
+  ]
+}

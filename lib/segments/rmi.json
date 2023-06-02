@@ -1,0 +1,8 @@
+{
+  "name": "RMI",
+  "fields": [
+    "Risk Management Incident Code",
+    "Date/Time Incident",
+    "Incident Type Code"
+  ]
+}

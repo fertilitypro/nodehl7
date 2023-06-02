@@ -1,0 +1,8 @@
+{
+  "name": "QRI",
+  "fields": [
+    "Candidate Confidence",
+    "Match Reason Code",
+    "Algorithm Descriptor"
+  ]
+}

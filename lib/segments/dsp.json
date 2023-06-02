@@ -1,0 +1,10 @@
+{
+  "name": "DSP",
+  "fields": [
+    "Set ID - DSP",
+    "Display Level",
+    "Data Line",
+    "Logical Break Point",
+    "Result ID"
+  ]
+}

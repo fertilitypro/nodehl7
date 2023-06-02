@@ -1,0 +1,11 @@
+{
+  "name": "EQU",
+  "fields": [
+    "Equipment Instance Identifier",
+    "Event Date/Time",
+    "Equipment State",
+    "Local/Remote Control State",
+    "Alert Level",
+    "Expected date/time of the next status change"
+  ]
+}

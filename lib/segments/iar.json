@@ -1,0 +1,9 @@
+{
+  "name": "IAR",
+  "fields": [
+    "Allergy Reaction Code",
+    "Allergy Severity Code",
+    "Sensitivity to Causative Agent Code",
+    "Management"
+  ]
+}

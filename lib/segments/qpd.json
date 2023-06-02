@@ -1,0 +1,8 @@
+{
+  "name": "QPD",
+  "fields": [
+    "Message Query Name",
+    "Query Tag",
+    "User Parameters (in successive fields)"
+  ]
+}

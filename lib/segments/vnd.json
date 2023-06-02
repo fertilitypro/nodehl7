@@ -1,0 +1,16 @@
+{
+  "name": "VND",
+  "fields": [
+    "Set Id - VND",
+    "Vendor Identifier",
+    "Vendor Name",
+    "Vendor Catalog Number",
+    "Primary Vendor Indicator",
+    "Corporation",
+    "Primary Contact",
+    "Contract Adjustment",
+    "Associated Contract ID",
+    "Class of Trade",
+    "Pricing Tier Level"
+  ]
+}

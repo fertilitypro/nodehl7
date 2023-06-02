@@ -1,0 +1,19 @@
+{
+  "name": "GP2",
+  "fields": [
+    "Revenue Code",
+    "Number of Service Units",
+    "Charge",
+    "Reimbursement Action Code",
+    "Denial or Rejection Code",
+    "OCE Edit Code",
+    "Ambulatory Payment Classification Code",
+    "Modifier Edit Code",
+    "Payment Adjustment Code",
+    "Packaging Status Code",
+    "Expected CMS Payment Amount",
+    "Reimbursement Type Code",
+    "Co-Pay Amount",
+    "Pay Rate per Service Unit"
+  ]
+}

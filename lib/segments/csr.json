@@ -1,0 +1,22 @@
+{
+	"name": "CSR",
+  "fields": [
+    "Sponsor Study ID",
+    "Alternate Study ID",
+    "Institution Registering the Patient",
+    "Sponsor Patient ID",
+    "Alternate Patient ID - CSR",
+    "Date/Time of Patient Study Registration",
+    "Person Performing Study Registration",
+    "Study Authorizing Provider",
+    "Date/Time Patient Study Consent Signed",
+    "Patient Study Eligibility Status",
+    "Study Randomization Date/time",
+    "Randomized Study Arm",
+    "Stratum for Study Randomization",
+    "Patient Evaluability Status",
+    "Date/Time Ended Study",
+    "Reason Ended Study",
+    "Action Code"
+  ]
+}

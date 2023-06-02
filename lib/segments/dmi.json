@@ -1,0 +1,10 @@
+{
+  "name": "DMI",
+  "fields": [
+    "Diagnostic Related Group",
+    "Major Diagnostic Category",
+    "Lower and Upper Trim Points",
+    "Average Length of Stay",
+    "Relative Weight"
+  ]
+}

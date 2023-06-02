@@ -1,0 +1,14 @@
+{
+	"name": "PDA",
+  "fields": [
+    "Death Cause Code",
+    "Death Location",
+    "Death Certified Indicator",
+    "Death Certificate Signed Date/Time",
+    "Death Certified By",
+    "Autopsy Indicator",
+    "Autopsy Start and End Date/Time",
+    "Autopsy Performed By",
+    "Coroner Indicator"
+  ]
+}
