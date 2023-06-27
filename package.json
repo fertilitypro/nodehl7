@@ -1,6 +1,6 @@
 {
   "name": "nodehl7",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "description": "Forked from Loksly/nodehl7 - NodeJS Library for parsing HL7 Messages",
   "main": "lib/hl7.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ig-martinez/nodehl7/"
+    "url": "git+https://github.com/fertilitypro/nodehl7/"
   },
   "keywords": [
     "nodejs",
