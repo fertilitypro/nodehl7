@@ -1,0 +1,13 @@
+{
+  "name": "ZQA",
+  "fields": [
+    "Set Id",
+    "Questionnaire ID",
+    "Question and Answer",
+    "Created By",
+    "Create Date/Time",
+    "Last Modified By",
+    "Last Modified Date/Time",
+    "Combined Answer"
+  ]
+}
