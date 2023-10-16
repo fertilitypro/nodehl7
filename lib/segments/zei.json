@@ -1,0 +1,22 @@
+{
+  "name": "ZEI",
+  "fields": [
+    "Set ID",
+    "Employment Status",
+    "Employer Name",
+    "Employer Address",
+    "Employer Phone",
+    "Employer Contact",
+    "Employee ID",
+    "Person Occupation",
+    "Employment Start Date",
+    "Employment End Date",
+    "Employer Name Coded",
+    "Employer Tax Number",
+    "Employee Job Class",
+    "Employee Position",
+    "Employee Title",
+    "Employee Contact Tilte",
+    "Employee Retire Date"
+  ]
+}

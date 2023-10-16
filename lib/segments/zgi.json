@@ -1,0 +1,9 @@
+{
+  "name": "ZGI",
+  "fields": [
+    "Address Effective",
+    "Retire Date",
+    "Patient Relationship",
+    "Center Int ID - Rel Person"
+  ]
+}
