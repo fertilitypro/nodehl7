@@ -1,6 +1,6 @@
 {
   "name": "nodehl7",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "description": "Forked from Loksly/nodehl7 - NodeJS Library for parsing HL7 Messages",
   "main": "lib/hl7.js",
   "scripts": {

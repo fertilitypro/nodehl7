@@ -1,0 +1,12 @@
+{
+  "name": "ZAL",
+  "fields": [
+    "Description",
+    "Timestamp",
+    "3",
+    "4",
+    "Type",
+    "Status",
+    "Allergy Details"
+  ]
+}
